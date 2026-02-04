@@ -58,5 +58,6 @@ public class HCF_LCM {
         int num2 = sc.nextInt();
         System.out.println("Result HCF: " + hcf(num1, num2));
         System.out.println("Result LCM: " + lcm(num1, num2));
+        sc.close();
     }
 }
