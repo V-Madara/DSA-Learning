@@ -1,0 +1,49 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Mage",
+			"request": "launch",
+			"mainClass": "Assignment.Recursion.Mage",
+			"projectName": "DSA in JAVA_47fb2bcd"
+		},
+		{
+			"type": "java",
+			"name": "Rotate",
+			"request": "launch",
+			"mainClass": "Assignment.Array.Rotate",
+			"projectName": "DSA in JAVA_47fb2bcd"
+		},
+		{
+			"type": "java",
+			"name": "Permutation",
+			"request": "launch",
+			"mainClass": "Assignment.Recursion.Permutation",
+			"projectName": "DSA in JAVA_47fb2bcd"
+		},
+		{
+			"type": "java",
+			"name": "SumTriangle",
+			"request": "launch",
+			"mainClass": "Assignment.Recursion.SumTriangle",
+			"projectName": "DSA in JAVA_47fb2bcd"
+		},
+		{
+			"type": "java",
+			"name": "AddToArray",
+			"request": "launch",
+			"mainClass": "Assignment.Array.AddToArray",
+			"projectName": "DSA in JAVA_47fb2bcd"
+		},
+		{
+			"type": "java",
+			"name": "Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		}
+	]
+}
